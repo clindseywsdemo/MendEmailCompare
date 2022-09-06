@@ -6,5 +6,5 @@ processedCDs.csv - File provided by Mend<br>
 userEmails.csv - Template file for email addresses on your side
 
 # Usage
-npm run build
+npm run build<br/>
 node index.js
